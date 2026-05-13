@@ -1,0 +1,8 @@
+fast/
+venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+frontend/node_modules/
